@@ -21,8 +21,3 @@ function mathOperation(arg1, arg2, operation) {
       alert("Такого аргумента не существует");
   }
 }
-
-console.log(mathOperation(5, 8, "summ"));
-console.log(mathOperation(5, 8, "subtract"));
-console.log(mathOperation(5, 8, "multiply"));
-console.log(mathOperation(5, 8, "divide"));
